@@ -1,0 +1,4 @@
+- name: IMC
+  image: assets/img/imc.png
+  type: main
+  link: https://www.imc.com/eu/

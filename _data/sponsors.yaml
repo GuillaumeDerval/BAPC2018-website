@@ -2,3 +2,7 @@
   image: assets/img/imc.png
   type: main
   link: https://www.imc.com/eu/
+- name: Exellys
+  image: assets/img/exellys.png
+  type: presenter
+  link: https://www.exellys.com/

@@ -7,7 +7,7 @@ menu: contest
 ---
 
 **Note that the registration deadline for the BACP is the 30th of September 2018. This does not leave you much
-time to register between the two. We thus recomment that you register as soon as possible after the preliminaries.**
+time to register between the two. We thus recommend that you register as soon as possible after the preliminaries.**
 
 The date of the preliminares will take place on <b>22 September 2018</b>. 
 This contest serves as a pre-selection / practice contest for the BAPC. It is hosted locally by each university

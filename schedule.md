@@ -8,7 +8,7 @@ menu: contest
 
 The schedule is not definitive yet and is subject to minor changes.
 
-Please contact us if you have any questions.
+Please [contact us]({{ "contact.html" | absolute_url }}) if you have any questions.
 
 | Time | Activity |
 | --- | --- |

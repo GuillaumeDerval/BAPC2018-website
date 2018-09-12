@@ -20,4 +20,3 @@ Please [contact us]({{ "contact.html" | absolute_url }}) if you have any questio
 | 18:00 - 20:30 | Presentation of the solutions and award ceremony |
 | 20:30 - 22:00 | Dinner and drinks |
 
-[In the meantime if you have any question, feel free to contact us.]({{ "contact.html" | absolute_url }})

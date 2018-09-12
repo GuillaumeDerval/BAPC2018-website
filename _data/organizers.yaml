@@ -1,12 +1,14 @@
 - name: UCLouvain
   image: assets/img/ucl.jpg
   link: https://uclouvain.be/en/index.html
-- name: EPL
-  image: assets/img/Logo_EPL.jpg
-  link: https://uclouvain.be/en/faculties/epl
+  faculty:
+    name: EPL
+    image: assets/img/Logo_EPL.jpg
+    link: https://uclouvain.be/en/faculties/epl
 - name: UMons
   image: assets/img/umons.jpg
   link: https://web.umons.ac.be/en/
-- name: Faculté des Sciences - UMons
-  image: assets/img/fac_mons.jpg
-  link: https://web.umons.ac.be/fs/en/
+  faculty:
+    name: Faculté des Sciences - UMons
+    image: assets/img/fac_mons.jpg
+    link: https://web.umons.ac.be/fs/en/

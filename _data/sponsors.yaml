@@ -9,3 +9,6 @@
 - name: OM Partners
   image: assets/img/ompartners.jpg
   link: https://www.ompartners.com/
+- name: Amazon Web Services
+  image: assets/img/amazon.png
+  link: https://aws.amazon.com/

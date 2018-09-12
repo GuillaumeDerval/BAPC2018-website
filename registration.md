@@ -6,6 +6,8 @@ order: 3
 menu: main
 ---
 
+**The registration deadline for all teams is the 30th of September 2018**
+
 #### Student teams
 To register to the BAPC 2018 you have to:
 

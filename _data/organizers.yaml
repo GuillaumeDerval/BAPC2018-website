@@ -2,9 +2,9 @@
   image: assets/img/ucl.jpg
   link: https://uclouvain.be/en/index.html
   faculty:
-    name: EPL
-    image: assets/img/Logo_EPL.jpg
-    link: https://uclouvain.be/en/faculties/epl
+    name: ICTEAM
+    image: assets/img/ictm.png
+    link: https://uclouvain.be/en/research-institutes/icteam
 - name: UMons
   image: assets/img/umons.jpg
   link: https://web.umons.ac.be/en/

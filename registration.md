@@ -2,7 +2,7 @@
 layout: default
 title: Registration
 menutitle: Registration
-order: 3
+order: 4
 menu: main
 ---
 

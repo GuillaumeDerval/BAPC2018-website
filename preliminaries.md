@@ -5,7 +5,8 @@ menutitle: Preliminaries
 order: 3
 menu: contest
 ---
-<h3>Pre-BAPC 2018 Final Scoreboard</h3><table class="table table-sm">
+<h3>Pre-BAPC 2018 Final Scoreboard</h3>
+<div class="table-responsive"><table class="table table-sm table-scoreboard">
 <thead>
 <tr>
 <th>Rank</th>
@@ -1792,7 +1793,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 </tbody>
-</table><!--
+</table></div>
+<!--
 The preliminary contest is hosted locally by each university so please contact your local organisation for more
 information.
 

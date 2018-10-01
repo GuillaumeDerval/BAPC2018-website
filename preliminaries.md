@@ -18,10 +18,11 @@ Pre-BAPC registration form</a>  in order participate in BAPC preliminaries.
 <tr>
 <th>Rank</th>
 <th class="name">Team</th>
-<th class="problems">Number of problems solved</th>
-<th class="score">Total time</th>
+<th class="problems">Solved</th>
+<th class="score">Score</th>
 <th class="score text-center">A</th>
-<th class="score text-center">B</th>
+<th class="score text-center">
+B</th>
 <th class="score text-center">C</th>
 <th class="score text-center">D</th>
 <th class="score text-center">E</th>

@@ -177,7 +177,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>6</td>
 <td>821</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">1/54</td>
 <td class="score text-center bg-success">4/187</td>
 <td class="score text-center bg-success">1/232</td>
@@ -188,6 +187,7 @@ menu: contest
 <td class="score text-center bg-success">1/29</td>
 <td class="score text-center bg-danger">3</td>
 <td class="score text-center bg-success">2/174</td>
+<td class="score text-center"></td>
 </tr>
 <tr>
 <td>10</td>
@@ -195,7 +195,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>5</td>
 <td>246</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">1/11</td>
 <td class="score text-center bg-success">1/49</td>
 <td class="score text-center bg-danger">3</td>
@@ -206,6 +205,7 @@ menu: contest
 <td class="score text-center bg-success">1/22</td>
 <td class="score text-center"></td>
 <td class="score text-center bg-success">1/33</td>
+<td class="score text-center bg-danger">5</td>
 </tr>
 <tr>
 <td>11</td>
@@ -249,7 +249,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>4</td>
 <td>372</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">1/10</td>
 <td class="score text-center bg-success">1/46</td>
 <td class="score text-center bg-danger">4</td>
@@ -260,6 +259,7 @@ menu: contest
 <td class="score text-center bg-success">1/65</td>
 <td class="score text-center bg-danger">1</td>
 <td class="score text-center bg-success">2/231</td>
+<td class="score text-center bg-danger">1</td>
 </tr>
 <tr>
 <td>14</td>
@@ -267,7 +267,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>4</td>
 <td>446</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">1/23</td>
 <td class="score text-center bg-success">1/235</td>
 <td class="score text-center bg-danger">4</td>
@@ -278,6 +277,7 @@ menu: contest
 <td class="score text-center bg-success">1/51</td>
 <td class="score text-center bg-danger">2</td>
 <td class="score text-center bg-success">1/137</td>
+<td class="score text-center"></td>
 </tr>
 <tr>
 <td>15</td>
@@ -645,7 +645,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>2</td>
 <td>286</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">2/24</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -656,6 +655,7 @@ menu: contest
 <td class="score text-center bg-success">2/222</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
 </tr>
 <tr>
 <td>36</td>
@@ -681,7 +681,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>2</td>
 <td>341</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">2/160</td>
 <td class="score text-center bg-danger">3</td>
 <td class="score text-center bg-danger">6</td>
@@ -690,6 +689,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-success">2/141</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -915,7 +915,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>2</td>
 <td>563</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">3/226</td>
 <td class="score text-center bg-danger">1</td>
 <td class="score text-center"></td>
@@ -926,6 +925,7 @@ menu: contest
 <td class="score text-center bg-success">6/197</td>
 <td class="score text-center bg-danger">8</td>
 <td class="score text-center"></td>
+<td class="score text-center"></td>
 </tr>
 <tr>
 <td>51</td>
@@ -933,9 +933,9 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>61</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">1/61</td>
 <td class="score text-center bg-danger">5</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -951,7 +951,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>73</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">2/53</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -960,6 +959,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -1095,7 +1095,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>190</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">4</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1105,6 +1104,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center bg-success">2/170</td>
 <td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
 <tr>
@@ -1167,7 +1167,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>287</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">6</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1176,6 +1175,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-success">8/147</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -1383,7 +1383,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">2</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1392,6 +1391,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -1707,7 +1707,6 @@ menu: contest
 <td>Radboud University Nijmegen</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">3</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1716,6 +1715,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">1</td>
 <td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>

@@ -6,7 +6,7 @@ order: 0
 menu: main
 ---
 
-**The registration deadline for all teams is the 2nd of October 2018 at noon. **
+**The registration deadline for all teams is the 2nd of October 2018 at noon.**
 
 The preliminary results are now <a href='https://2018.bapc.eu/preliminaries.html'>available</a>!
 

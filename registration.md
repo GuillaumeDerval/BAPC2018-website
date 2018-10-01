@@ -6,7 +6,7 @@ order: 4
 menu: main
 ---
 
-**The registration deadline for all teams is the 2nd of October 2018 at noon. **
+**The registration deadline for all teams is the 2nd of October 2018 at noon.**
 
 **Maximum 5 teams per university.**
 

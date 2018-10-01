@@ -29,7 +29,7 @@ menu: contest
 <tbody>
 <tr>
 <td>1</td>
-<td></td>
+<td>MostlyHarmlessBogosort</td>
 <td>UCLouvain</td>
 <td>9</td>
 <td>1457</td>
@@ -47,7 +47,7 @@ menu: contest
 </tr>
 <tr>
 <td>2</td>
-<td></td>
+<td>EAPC\̅_̅/̷̚ʾ</td>
 <td>TU/e</td>
 <td>8</td>
 <td>914</td>
@@ -65,7 +65,7 @@ menu: contest
 </tr>
 <tr>
 <td>3</td>
-<td></td>
+<td>ℚ++</td>
 <td>Leiden University</td>
 <td>8</td>
 <td>1146</td>
@@ -83,7 +83,7 @@ menu: contest
 </tr>
 <tr>
 <td>4</td>
-<td></td>
+<td>♥Freelunch</td>
 <td>TU/e</td>
 <td>8</td>
 <td>1372</td>
@@ -101,7 +101,7 @@ menu: contest
 </tr>
 <tr>
 <td>5</td>
-<td></td>
+<td>CalKULating...</td>
 <td>KU Leuven</td>
 <td>8</td>
 <td>1454</td>
@@ -119,7 +119,7 @@ menu: contest
 </tr>
 <tr>
 <td>6</td>
-<td></td>
+<td>QuantumBogosort</td>
 <td>ULB</td>
 <td>7</td>
 <td>766</td>
@@ -137,7 +137,7 @@ menu: contest
 </tr>
 <tr>
 <td>7</td>
-<td></td>
+<td>CPUMons</td>
 <td>UMons</td>
 <td>7</td>
 <td>1012</td>
@@ -155,7 +155,7 @@ menu: contest
 </tr>
 <tr>
 <td>8</td>
-<td></td>
+<td>Ω(🦆ⁿ</td>
 <td>TU Delft</td>
 <td>7</td>
 <td>1309</td>
@@ -173,7 +173,7 @@ menu: contest
 </tr>
 <tr>
 <td>9</td>
-<td></td>
+<td>Omdehoek</td>
 <td>Radboud University Nijmegen</td>
 <td>6</td>
 <td>821</td>
@@ -191,7 +191,7 @@ menu: contest
 </tr>
 <tr>
 <td>10</td>
-<td></td>
+<td>Prim'sprimesquad</td>
 <td>Radboud University Nijmegen</td>
 <td>5</td>
 <td>246</td>
@@ -209,7 +209,7 @@ menu: contest
 </tr>
 <tr>
 <td>11</td>
-<td></td>
+<td>PromeTheUs</td>
 <td>TU Delft</td>
 <td>5</td>
 <td>664</td>
@@ -227,7 +227,7 @@ menu: contest
 </tr>
 <tr>
 <td>12</td>
-<td></td>
+<td>CorrectTheRecord</td>
 <td>TU Delft</td>
 <td>5</td>
 <td>775</td>
@@ -245,7 +245,7 @@ menu: contest
 </tr>
 <tr>
 <td>13</td>
-<td></td>
+<td>HunctortheFunctor'shungryturquoisefizzbuzzblockchain</td>
 <td>Radboud University Nijmegen</td>
 <td>4</td>
 <td>372</td>
@@ -263,7 +263,7 @@ menu: contest
 </tr>
 <tr>
 <td>14</td>
-<td></td>
+<td>beterietsdanniets</td>
 <td>Radboud University Nijmegen</td>
 <td>4</td>
 <td>446</td>
@@ -281,7 +281,7 @@ menu: contest
 </tr>
 <tr>
 <td>15</td>
-<td></td>
+<td>RO1</td>
 <td>TU Delft</td>
 <td>4</td>
 <td>712</td>
@@ -299,7 +299,7 @@ menu: contest
 </tr>
 <tr>
 <td>16</td>
-<td></td>
+<td>¯\_(V-V)_/¯</td>
 <td>TU/e</td>
 <td>4</td>
 <td>786</td>
@@ -317,7 +317,7 @@ menu: contest
 </tr>
 <tr>
 <td>17</td>
-<td></td>
+<td>PokéMons</td>
 <td>UMons</td>
 <td>4</td>
 <td>864</td>
@@ -335,7 +335,7 @@ menu: contest
 </tr>
 <tr>
 <td>18</td>
-<td></td>
+<td>PosledniyPonchik</td>
 <td>TU Delft</td>
 <td>4</td>
 <td>1180</td>
@@ -353,7 +353,7 @@ menu: contest
 </tr>
 <tr>
 <td>19</td>
-<td></td>
+<td>GooglingStackoverflow</td>
 <td>TU/e</td>
 <td>3</td>
 <td>224</td>
@@ -371,7 +371,7 @@ menu: contest
 </tr>
 <tr>
 <td>20</td>
-<td></td>
+<td>Rosesare#FF0000</td>
 <td>TU Delft</td>
 <td>3</td>
 <td>331</td>
@@ -389,7 +389,7 @@ menu: contest
 </tr>
 <tr>
 <td>21</td>
-<td></td>
+<td>TheBoysareBack</td>
 <td>TU/e</td>
 <td>3</td>
 <td>361</td>
@@ -407,7 +407,7 @@ menu: contest
 </tr>
 <tr>
 <td>22</td>
-<td></td>
+<td>defrec(n):returnrec(n)</td>
 <td>Universiteit van Amsterdam</td>
 <td>3</td>
 <td>422</td>
@@ -425,7 +425,7 @@ menu: contest
 </tr>
 <tr>
 <td>23</td>
-<td></td>
+<td>Turquaars</td>
 <td>TU/e</td>
 <td>3</td>
 <td>488</td>
@@ -443,7 +443,7 @@ menu: contest
 </tr>
 <tr>
 <td>24</td>
-<td></td>
+<td>sudoku</td>
 <td>Leiden University</td>
 <td>3</td>
 <td>564</td>
@@ -461,7 +461,7 @@ menu: contest
 </tr>
 <tr>
 <td>25</td>
-<td></td>
+<td>ExtremePythonsv2.0betaprerelease</td>
 <td>Leiden University</td>
 <td>3</td>
 <td>627</td>
@@ -479,7 +479,7 @@ menu: contest
 </tr>
 <tr>
 <td>26</td>
-<td></td>
+<td>TheRoyalSocietyforPuttingThingsonTopofOtherThings</td>
 <td>TU/e</td>
 <td>3</td>
 <td>706</td>
@@ -497,7 +497,7 @@ menu: contest
 </tr>
 <tr>
 <td>27</td>
-<td></td>
+<td>BELab</td>
 <td>UCLouvain</td>
 <td>3</td>
 <td>717</td>
@@ -515,7 +515,7 @@ menu: contest
 </tr>
 <tr>
 <td>28</td>
-<td></td>
+<td>pb([a1]x|liep)</td>
 <td>Leiden University</td>
 <td>3</td>
 <td>718</td>
@@ -533,7 +533,7 @@ menu: contest
 </tr>
 <tr>
 <td>29</td>
-<td></td>
+<td>HappyBirthdayLoe</td>
 <td>Universiteit van Amsterdam</td>
 <td>2</td>
 <td>77</td>
@@ -551,7 +551,7 @@ menu: contest
 </tr>
 <tr>
 <td>30</td>
-<td></td>
+<td>CubicleVIP</td>
 <td>TU Delft</td>
 <td>2</td>
 <td>122</td>
@@ -569,7 +569,7 @@ menu: contest
 </tr>
 <tr>
 <td>31</td>
-<td></td>
+<td>:)</td>
 <td>TU/e</td>
 <td>2</td>
 <td>173</td>
@@ -587,7 +587,7 @@ menu: contest
 </tr>
 <tr>
 <td>32</td>
-<td></td>
+<td>NucleaireIfLoops</td>
 <td>TU Delft</td>
 <td>2</td>
 <td>256</td>
@@ -605,7 +605,7 @@ menu: contest
 </tr>
 <tr>
 <td>33</td>
-<td></td>
+<td>NULL</td>
 <td>UCLouvain</td>
 <td>2</td>
 <td>261</td>
@@ -623,7 +623,7 @@ menu: contest
 </tr>
 <tr>
 <td>34</td>
-<td></td>
+<td>CodeStackRebels</td>
 <td>TU Delft</td>
 <td>2</td>
 <td>274</td>
@@ -641,7 +641,7 @@ menu: contest
 </tr>
 <tr>
 <td>35</td>
-<td></td>
+<td>DeInternetExplorers</td>
 <td>Radboud University Nijmegen</td>
 <td>2</td>
 <td>286</td>
@@ -659,7 +659,7 @@ menu: contest
 </tr>
 <tr>
 <td>36</td>
-<td></td>
+<td>d_1</td>
 <td>VU Amsterdam</td>
 <td>2</td>
 <td>307</td>
@@ -677,7 +677,7 @@ menu: contest
 </tr>
 <tr>
 <td>37</td>
-<td></td>
+<td>deoelewappers</td>
 <td>Radboud University Nijmegen</td>
 <td>2</td>
 <td>341</td>
@@ -695,7 +695,7 @@ menu: contest
 </tr>
 <tr>
 <td>38</td>
-<td></td>
+<td>Philips&Ko.</td>
 <td>VU Amsterdam</td>
 <td>2</td>
 <td>368</td>
@@ -713,7 +713,7 @@ menu: contest
 </tr>
 <tr>
 <td>39</td>
-<td></td>
+<td>Yannik&Jakob</td>
 <td>Leiden University</td>
 <td>2</td>
 <td>376</td>
@@ -731,7 +731,7 @@ menu: contest
 </tr>
 <tr>
 <td>40</td>
-<td></td>
+<td>D̢̾̑͆ͥͨͯe̫ͣ̿e̝̪̖ͪ̃̀p̵͙̝͎̎͛ͣF͉̤͈̆ͭ͂̓̄r̦̼̫̞i̛̤͎̓̊͛ͥ͂̔e̠̤̪͇͛ͥ͑ͩ͐̈́d̡̤̬̜̙̒̾̀̿̈́́ͯC͇̗̭͖̔̽ͦ̊͋̉õ̜̖̖̭̬̇ͪ͋d̊̃̈͏͔e̷</td>
 <td>TU/e</td>
 <td>2</td>
 <td>382</td>
@@ -749,7 +749,7 @@ menu: contest
 </tr>
 <tr>
 <td>41</td>
-<td></td>
+<td>Rijkswaterstack</td>
 <td>TU/e</td>
 <td>2</td>
 <td>390</td>
@@ -767,7 +767,7 @@ menu: contest
 </tr>
 <tr>
 <td>42</td>
-<td></td>
+<td>GummyBears</td>
 <td>TU/e</td>
 <td>2</td>
 <td>396</td>
@@ -785,7 +785,7 @@ menu: contest
 </tr>
 <tr>
 <td>43</td>
-<td></td>
+<td>DeMosselmannen</td>
 <td>Universiteit van Amsterdam</td>
 <td>2</td>
 <td>409</td>
@@ -803,7 +803,7 @@ menu: contest
 </tr>
 <tr>
 <td>44</td>
-<td></td>
+<td>tranquilCats</td>
 <td>TU/e</td>
 <td>2</td>
 <td>422</td>
@@ -821,7 +821,7 @@ menu: contest
 </tr>
 <tr>
 <td>45</td>
-<td></td>
+<td>Wildcats</td>
 <td>TU/e</td>
 <td>2</td>
 <td>431</td>
@@ -839,7 +839,7 @@ menu: contest
 </tr>
 <tr>
 <td>46</td>
-<td></td>
+<td>smACkoverflow</td>
 <td>TU Delft</td>
 <td>2</td>
 <td>434</td>
@@ -857,7 +857,7 @@ menu: contest
 </tr>
 <tr>
 <td>47</td>
-<td></td>
+<td>SuperTacticalOriginalRandomMeteors</td>
 <td>TU/e</td>
 <td>2</td>
 <td>443</td>
@@ -875,7 +875,7 @@ menu: contest
 </tr>
 <tr>
 <td>48</td>
-<td></td>
+<td>DeHekkermens</td>
 <td>Universiteit van Amsterdam</td>
 <td>2</td>
 <td>447</td>
@@ -893,7 +893,7 @@ menu: contest
 </tr>
 <tr>
 <td>49</td>
-<td></td>
+<td>Supergroup</td>
 <td>TU/e</td>
 <td>2</td>
 <td>508</td>
@@ -911,7 +911,7 @@ menu: contest
 </tr>
 <tr>
 <td>50</td>
-<td></td>
+<td>AlCognRythm</td>
 <td>Radboud University Nijmegen</td>
 <td>2</td>
 <td>563</td>
@@ -929,7 +929,7 @@ menu: contest
 </tr>
 <tr>
 <td>51</td>
-<td></td>
+<td>PythonPresidenten</td>
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>61</td>
@@ -947,7 +947,7 @@ menu: contest
 </tr>
 <tr>
 <td>52</td>
-<td></td>
+<td>ifEls,elseLuc</td>
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>73</td>
@@ -965,7 +965,7 @@ menu: contest
 </tr>
 <tr>
 <td>53</td>
-<td></td>
+<td>2Musketeers</td>
 <td>Universiteit van Amsterdam</td>
 <td>1</td>
 <td>94</td>
@@ -983,7 +983,7 @@ menu: contest
 </tr>
 <tr>
 <td>54</td>
-<td></td>
+<td>Hypergroep</td>
 <td>Universiteit van Amsterdam</td>
 <td>1</td>
 <td>125</td>
@@ -1001,7 +1001,7 @@ menu: contest
 </tr>
 <tr>
 <td>55</td>
-<td></td>
+<td>SANDISKMicroSDUltra32GB80MB/sClass10</td>
 <td>TU/e</td>
 <td>1</td>
 <td>154</td>
@@ -1018,8 +1018,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>55</td>
-<td></td>
+<td>56</td>
+<td>TheGullibleRaccoons</td>
 <td>TU/e</td>
 <td>1</td>
 <td>154</td>
@@ -1036,8 +1036,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>56</td>
-<td></td>
+<td>57</td>
+<td>Bralex</td>
 <td>Leiden University</td>
 <td>1</td>
 <td>163</td>
@@ -1054,8 +1054,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>57</td>
-<td></td>
+<td>58</td>
+<td>Majorbug</td>
 <td>TU Delft</td>
 <td>1</td>
 <td>165</td>
@@ -1072,8 +1072,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>58</td>
-<td></td>
+<td>59</td>
+<td>BlazeIT</td>
 <td>TU Delft</td>
 <td>1</td>
 <td>168</td>
@@ -1090,8 +1090,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>59</td>
-<td></td>
+<td>60</td>
+<td>GitGood</td>
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>190</td>
@@ -1108,8 +1108,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>60</td>
-<td></td>
+<td>61</td>
+<td>Fainosag</td>
 <td>TU/e</td>
 <td>1</td>
 <td>215</td>
@@ -1126,8 +1126,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>61</td>
-<td></td>
+<td>62</td>
+<td>No_Idea_tbh</td>
 <td>TU/e</td>
 <td>1</td>
 <td>221</td>
@@ -1144,8 +1144,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>62</td>
-<td></td>
+<td>63</td>
+<td>10gud100u</td>
 <td>TU/e</td>
 <td>1</td>
 <td>267</td>
@@ -1162,26 +1162,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>63</td>
-<td></td>
-<td>TU/e</td>
-<td>1</td>
-<td>287</td>
-<td class="score text-center bg-danger">4</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-success">1/287</td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>63</td>
-<td></td>
+<td>64</td>
+<td>DanAnNi</td>
 <td>Radboud University Nijmegen</td>
 <td>1</td>
 <td>287</td>
@@ -1198,8 +1180,26 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>64</td>
-<td></td>
+<td>65</td>
+<td>TeamPlopkoeken</td>
+<td>TU/e</td>
+<td>1</td>
+<td>287</td>
+<td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-success">1/287</td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>66</td>
+<td>Spare1</td>
 <td>TU/e</td>
 <td>1</td>
 <td>293</td>
@@ -1216,8 +1216,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>65</td>
-<td></td>
+<td>67</td>
+<td>brUTeForCEaLlThEWAy</td>
 <td>TU/e</td>
 <td>1</td>
 <td>311</td>
@@ -1234,8 +1234,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>66</td>
-<td></td>
+<td>68</td>
+<td>NoClue</td>
 <td>TU/e</td>
 <td>1</td>
 <td>346</td>
@@ -1252,8 +1252,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>67</td>
-<td></td>
+<td>69</td>
+<td>#swagoverflow</td>
 <td>TU Delft</td>
 <td>1</td>
 <td>395</td>
@@ -1270,62 +1270,26 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
-<td>Leiden University</td>
+<td>70</td>
+<td>3T</td>
+<td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>Leiden University</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center bg-danger">6</td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">3</td>
 <td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>Leiden University</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">2</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">1</td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>71</td>
+<td>Algo1</td>
 <td>UCLouvain</td>
 <td>0</td>
 <td>0</td>
@@ -1342,260 +1306,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
-<td>TU/e</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center bg-danger">6</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU/e</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU/e</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center bg-danger">5</td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU/e</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU/e</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU/e</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>Universiteit van Amsterdam</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>Radboud University Nijmegen</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>Radboud University Nijmegen</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center bg-danger">4</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>Radboud University Nijmegen</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU Delft</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU Delft</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>TU Delft</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
-<td>VU Amsterdam</td>
-<td>0</td>
-<td>0</td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">3</td>
-<td class="score text-center"></td>
-<td class="score text-center bg-danger">2</td>
-<td class="score text-center bg-danger">1</td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-<td class="score text-center"></td>
-</tr>
-<tr>
-<td>68</td>
-<td></td>
+<td>72</td>
+<td>BG_United</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1612,8 +1324,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>73</td>
+<td>Bulgari-Unaci</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1630,8 +1342,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>74</td>
+<td>ByteUs</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1648,8 +1360,44 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>75</td>
+<td>Dr.Iza</td>
+<td>Universiteit van Amsterdam</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>76</td>
+<td>FR3D</td>
+<td>Radboud University Nijmegen</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>77</td>
+<td>IfCatsProgrammedComputers</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1666,8 +1414,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>78</td>
+<td>MachtigeBosbessenVlaai</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1684,8 +1432,8 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>79</td>
+<td>Napsters</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1702,8 +1450,26 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 <tr>
-<td>68</td>
-<td></td>
+<td>80</td>
+<td>Ookgeennaam</td>
+<td>Radboud University Nijmegen</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>81</td>
+<td>ProblemSolversnotDecisionMakers</td>
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
@@ -1715,6 +1481,240 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
+<td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>82</td>
+<td>Saskia&Ralph</td>
+<td>Leiden University</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>83</td>
+<td>Satyres</td>
+<td>TU/e</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center bg-danger">5</td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>84</td>
+<td>Sjaarzenzijnbazen</td>
+<td>TU/e</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>85</td>
+<td>Team2</td>
+<td>TU Delft</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>86</td>
+<td>Teamtwix</td>
+<td>TU/e</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>87</td>
+<td>TheGreekFreak</td>
+<td>TU Delft</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>88</td>
+<td>WOT</td>
+<td>Leiden University</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>89</td>
+<td>Wedonothaveateamname</td>
+<td>TU/e</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>90</td>
+<td>WinnersByDefault</td>
+<td>Leiden University</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center bg-danger">6</td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>91</td>
+<td>[B99]</td>
+<td>TU/e</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center bg-danger">6</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>92</td>
+<td>[TEAMNAME]</td>
+<td>TU/e</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>93</td>
+<td>mysterymachine</td>
+<td>TU Delft</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+</tr>
+<tr>
+<td>94</td>
+<td>noname1</td>
+<td>Radboud University Nijmegen</td>
+<td>0</td>
+<td>0</td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">3</td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center"></td>
+<td class="score text-center bg-danger">1</td>
 <td class="score text-center bg-danger">4</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>

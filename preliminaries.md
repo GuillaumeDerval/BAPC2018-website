@@ -155,7 +155,7 @@ menu: contest
 </tr>
 <tr>
 <td>8</td>
-<td>Ω(🦆ⁿ </td>
+<td>Ω(🦆ⁿ)</td>
 <td>TU Delft</td>
 <td>7</td>
 <td>1309</td>

@@ -2,11 +2,13 @@
 layout: default
 title: Registration
 menutitle: Registration
-order: 3
+order: 4
 menu: main
 ---
 
-**The registration deadline for all teams is the 30th of September 2018**
+**The registration deadline for all teams is the 1st of October 2018**
+
+**Maximum 4 teams per university. Registration of an additionnal 5th team may still be possible the 2nd of October. Stay tuned!**
 
 #### Student teams
 To register to the BAPC 2018 you have to:

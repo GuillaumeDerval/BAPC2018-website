@@ -5,7 +5,7 @@ menutitle: Preliminaries
 order: 3
 menu: contest
 ---
-<h3>Pre-BAPC 2018 Final Scoreboard</h3><table class="table">
+<h3>Pre-BAPC 2018 Final Scoreboard</h3><table class="table table-sm">
 <thead>
 <tr>
 <th>Rank</th>

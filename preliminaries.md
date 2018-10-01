@@ -5,8 +5,7 @@ menutitle: Preliminaries
 order: 3
 menu: contest
 ---
-<h3>Pre-BAPC 2018 Final Scoreboard</h3>
-<div class="table-responsive"><table class="table table-sm table-scoreboard">
+<h3>Pre-BAPC 2018 Final Scoreboard</h3><div class="table-responsive"><table class="table table-sm table-scoreboard">
 <thead>
 <tr>
 <th>Rank</th>
@@ -156,7 +155,7 @@ menu: contest
 </tr>
 <tr>
 <td>8</td>
-<td>Ω(🦆ⁿ)</td>
+<td>Ω(🦆ⁿ) </td>
 <td>TU Delft</td>
 <td>7</td>
 <td>1309</td>
@@ -718,7 +717,6 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>2</td>
 <td>307</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">2/218</td>
 <td class="score text-center bg-danger">5</td>
 <td class="score text-center"></td>
@@ -727,6 +725,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-success">2/49</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -754,7 +753,6 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>2</td>
 <td>368</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-success">1/198</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -763,6 +761,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-success">1/170</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -1348,11 +1347,11 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">3</td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">2</td>
 <td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1384,10 +1383,10 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">15</td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1402,7 +1401,6 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">2</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1412,6 +1410,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">3</td>
 <td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
 <tr>
@@ -1427,8 +1426,8 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -1474,7 +1473,6 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">4</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1485,6 +1483,7 @@ menu: contest
 <td class="score text-center bg-danger">6</td>
 <td class="score text-center bg-danger">2</td>
 <td class="score text-center"></td>
+<td class="score text-center"></td>
 </tr>
 <tr>
 <td>82</td>
@@ -1492,7 +1491,6 @@ menu: contest
 <td>VU Amsterdam</td>
 <td>0</td>
 <td>0</td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">4</td>
 <td class="score text-center bg-danger">1</td>
 <td class="score text-center"></td>
@@ -1502,6 +1500,7 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">1</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
 <tr>
@@ -1513,8 +1512,8 @@ menu: contest
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">2</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
@@ -1548,13 +1547,13 @@ menu: contest
 <td>0</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
-<td class="score text-center"></td>
 <td class="score text-center bg-danger">7</td>
 <td class="score text-center bg-danger">4</td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center bg-danger">4</td>
+<td class="score text-center"></td>
 <td class="score text-center"></td>
 <td class="score text-center"></td>
 </tr>
@@ -1793,8 +1792,7 @@ menu: contest
 <td class="score text-center"></td>
 </tr>
 </tbody>
-</table></div>
-<!--
+</table></div><!--
 The preliminary contest is hosted locally by each university so please contact your local organisation for more
 information.
 

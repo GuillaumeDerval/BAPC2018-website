@@ -1,14 +1,16 @@
 ---
 layout: default
 menutitle: Home
-title: About the BAPC
+title: BAPC 2018
 order: 0
 menu: main
 ---
 
-**The registration deadline for all teams is the 2nd of October 2018 at noon.**
+**[Register for the online contest here]({{ "registration.html" | absolute_url }})**
 
-The preliminary results are now <a href='https://2018.bapc.eu/preliminaries.html'>available</a>!
+The preliminary results are now [available]({{ "preliminaries.html" | absolute_url }})!
+
+### About the BAPC 
 
 The Benelux Algorithm Programming Contest (BAPC) is a contest in which about 50 teams from leading universities in Luxemburg, 
 Belgium and the Netherlands are served a series of algorithmic problems/puzzles. The goal of each team is to solve as many 

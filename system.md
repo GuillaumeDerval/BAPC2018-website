@@ -6,8 +6,7 @@ order: 4
 menu: contest
 ---
 
-<p><b>The information on this page is subject to change</b>. Please check later for the
-definitive information. The machines are PCs with an installation based on ArchLinux amd64. 
+<p>The machines are PCs with an installation based on ArchLinux amd64.
 
 It is allowed to bring your own simple keyboard. Programmable keyboards are not allowed. 
 We provide a simple mouse and it is not allowed to bring your own mouse.  This page lists the available

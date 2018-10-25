@@ -1,7 +1,7 @@
 ---
 layout: default
 menutitle: Home
-title: BAPC 2018
+title: BAPC 2018 - Saturday 27/10
 order: 0
 menu: main
 ---

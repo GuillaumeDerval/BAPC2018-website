@@ -9,6 +9,12 @@
 - name: OM Partners
   image: assets/img/ompartners.jpg
   link: https://www.ompartners.com/
+- name: Odoo
+  image: assets/img/odoo_logo.png
+  link: https://www.odoo.com/
+- name: Quintiq
+  image: assets/img/quintiq.png
+  link: https://www.quintiq.com/
 - name: Amazon Web Services
   image: assets/img/amazon.png
   link: https://aws.amazon.com/

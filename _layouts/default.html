@@ -49,13 +49,20 @@
             max-width: 60%;
         }
 
-        .sponsor {
+        a.sponsor {
+            display: inline-block;
+            width: 33%;
+            height: 60px;
+            margin-bottom: 30px;
+        }
+
+        a.sponsor img {
             max-height: 60px;
-            max-width: 50%;
+            max-width: 100%;
             margin-right: 50px;
         }
 
-        .mainsponsor {
+        a.mainsponsor img {
             max-width: 60%;
         }
 
@@ -84,6 +91,24 @@
             width: 100%;
             padding: 0;
             margin: 0;
+        }
+
+        .table-scoreboard {
+            word-break: break-word;
+            font-size: 0.8em;
+        }
+
+        .table-scoreboard td {
+            min-width: 55px;
+        }
+
+        .table-scoreboard td:nth-child(2), .table-scoreboard td:nth-child(3) {
+            min-width: 100px;
+        }
+
+        .topinfo {
+            text-align: center;
+            font-size: 1.3em;
         }
     </style>
 </head>
@@ -160,7 +185,7 @@
             <div class="logos">
                 {% for sponsor in site.data.sponsors %}
                     {% if sponsor.type == "main" %}
-                        <a href="{{sponsor.link}}"><img src="{{sponsor.image}}" alt="{{sponsor.name}}" class="mainsponsor"></a>
+                        <a href="{{sponsor.link}}" class="mainsponsor"><img src="{{sponsor.image}}" alt="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
             </div>
@@ -173,12 +198,12 @@
             <div class="logos">
                 {% for sponsor in site.data.sponsors %}
                     {% if sponsor.type != "main" %}
-                        <a href="{{sponsor.link}}"><img src="{{sponsor.image}}" alt="{{sponsor.name}}" class="sponsor"></a>
+                        <a href="{{sponsor.link}}" class="sponsor"><img src="{{sponsor.image}}" alt="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
+                <!--<br/>
                 <br/>
-                <br/>
-                <a class="looking" href='{{ "contact.html" | absolute_url }}'>We are currently looking for sponsors!</a>
+                <a class="looking" href='{{ "contact.html" | absolute_url }}'>We are currently looking for sponsors!</a>-->
             </div>
 
         </div>

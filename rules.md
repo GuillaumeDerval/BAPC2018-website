@@ -83,7 +83,7 @@ menu: contest
   <li>All prints made by the teams will be brought by a runner. Participants are not allowed near the printers.</li>
   <li>A team is allowed to bring up to 25 A4-sized pages, printed one-sided or up to 12.5 A4-sized pages, printed two-sided, of documentation. Each team member is allowed one identical copy.</li>
   <li>A team is allowed to bring a dictionary; English to their native language.</li>
-  <li>A team is allowed to bring one non-programmable wired mouse and/or keyboard. The keyboard needs to be checked by the organisation before the testing session.</li>
+  <li>A team is allowed to bring one non-programmable wired keyboard. The keyboard needs to be checked by the organisation before the testing session.</li>
   <li>A team is allowed to bring paper and pens. Where available, the organisation will be providing paper and pens.</li>
   <li>All items that are to be used during the contest, have to be handed in during registration to be checked by the organisation.</li>
 </ul>

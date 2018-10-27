@@ -1,21 +1,23 @@
 ---
 layout: default
 title: Registration
-menutitle: Registration
-order: 4
-menu: main
+menutitle: Registration (semi-live contest)
+order: 10
+menu: contest
 ---
 
-**The registration deadline for all teams is the 30th of September 2018**
+Semi-live contest
+-----------------
 
-#### Student teams
-To register to the BAPC 2018 you have to:
+It will be possible to participate online in the BAPC. 
+This semi-live contest will start about half an hour later than the official contest. 
+You will submit your solutions to a separate DOMjudge server.
 
-<ul>
- <li>Check that you fullfill the conditions to participate (see the rules)</li>
- <li>Fill in our <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSenaplzB2o0wjQwf37Eq5p2dL79YhE1bqaXq060N-hZopn_dQ/viewform?usp=sf_link">Local registration form</a>.</li> 
- <li>Register your team in the <a target="_blank" href="https://icpc.baylor.edu/regionals/finder/bapc-preliminaries-2018">ICPC system</a>.    </li>  
-</ul>
+[Semi-live contest website](http://bapc2018-open.eu-central-1.elasticbeanstalk.com/)
 
-#### Company teams
-[Contact us to register!]({{ "contact.html" | absolute_url }})
+[Register to the semi-live contest here](http://bapc2018-open.eu-central-1.elasticbeanstalk.com/register)
+
+Main contest
+------------
+
+It is no longer possible to register for the main contest.

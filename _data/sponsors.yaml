@@ -1,20 +1,5 @@
-- name: IMC
-  image: assets/img/imc.png
-  type: main
-  link: https://www.imc.com/eu/
-- name: Exellys
-  image: assets/img/exellys.png
-  type: presenter
-  link: https://www.exellys.com/
-- name: OM Partners
-  image: assets/img/ompartners.jpg
-  link: https://www.ompartners.com/
-- name: Odoo
-  image: assets/img/odoo_logo.png
-  link: https://www.odoo.com/
-- name: Quintiq
-  image: assets/img/quintiq.png
-  link: https://www.quintiq.com/
-- name: Amazon Web Services
-  image: assets/img/amazon.png
-  link: https://aws.amazon.com/
+# Use the following format
+# - name: Big Sponsor
+#  image: assets/img/sponsor.img
+#  type: main/presenter/remove if N/A
+#  link: https://example.com

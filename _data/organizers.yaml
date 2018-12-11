@@ -1,14 +1,14 @@
-- name: UCLouvain
-  image: assets/img/ucl.jpg
-  link: https://uclouvain.be/en/index.html
-  faculty:
-    name: ICTEAM
-    image: assets/img/ictm.png
-    link: https://uclouvain.be/en/research-institutes/icteam
-- name: UMons
-  image: assets/img/umons.jpg
-  link: https://web.umons.ac.be/en/
-  faculty:
-    name: Faculté des Sciences - UMons
-    image: assets/img/fac_mons.jpg
-    link: https://web.umons.ac.be/fs/en/
+# Use the following format
+# - name: University
+#   image: assets/img/uni.jpg
+#   link: https://example.com
+#   faculty:
+#     name: Science Faculty
+#     image: assets/img/science.png
+#     link: https://example.com
+- name: Thalia
+  image: assets/img/thalia-logo.png
+  link: https://thalia.nu
+- name: Desda
+  image: assets/img/desda-logo.png
+  link: https://www.desda.org

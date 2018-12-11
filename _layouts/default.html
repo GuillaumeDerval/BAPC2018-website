@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -35,6 +35,7 @@
 
         .orga {
             width: 50%;
+            padding-bottom: 20px;
         }
 
         .orgaimg {
@@ -116,7 +117,7 @@
 <body>
 
 <div class="jumbotron text-center" id="bapclogo_div">
-    <img src="assets/img/bapc_web.png" alt="logo" id="bapclogo">
+    <img src="assets/img/bapc-logo.png" alt="logo" id="bapclogo">
 </div>
 
 <nav class="navbar sticky-top navbar-expand-sm bg-dark navbar-dark">
@@ -126,22 +127,6 @@
     <div class="navbar-collapse collapse justify-content-center" id="menu">
 
         <ul class="navbar-nav">
-            <!--<li class="nav-item dropdown bg-dark" id="menu-contest">
-                <a class="nav-link dropdown-toggle" href="contest" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Contest
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a activeid="menu-contest" id="menu-preliminaries" class="dropdown-item" href="preliminaries">Preliminaries</a>
-                    <a activeid="menu-contest" id="menu-schedule" class="dropdown-item" href="schedule">Schedule</a>
-                    <a activeid="menu-contest" id="menu-scoreboard" class="dropdown-item" href="scoreboard">Scoreboard</a>
-                    <a activeid="menu-contest" id="menu-system" class="dropdown-item" href="system">System</a>
-                    <a activeid="menu-contest" id="menu-teams" class="dropdown-item" href="teams">Teams</a>
-                    <a activeid="menu-contest" id="menu-rules" class="dropdown-item" href="rules">Rules</a>
-                </div>
-            </li>-->
-
-
-
             {% assign mypages = site.pages | sort: "order" %}
             {% for node in mypages %}
                 {% if node.type == 'menu' %}
@@ -174,11 +159,14 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-12">
+            {% if page.title %}
             <h2>{{ page.title }}</h2>
+            {% endif %}
             {{ content }}
         </div>
     </div>
     <hr/>
+    {% if site.data.sponsors %}
     <div class="row">
         <div class="col-sm-12">
             <h3>Main sponsor</h3>
@@ -194,6 +182,7 @@
     <hr/>
     <div class="row">
         <div class="col-sm-12">
+            
             <h3>Event sponsors</h3>
             <div class="logos">
                 {% for sponsor in site.data.sponsors %}
@@ -201,13 +190,12 @@
                         <a href="{{sponsor.link}}" class="sponsor"><img src="{{sponsor.image}}" alt="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
-                <!--<br/>
-                <br/>
-                <a class="looking" href='{{ "contact.html" | absolute_url }}'>We are currently looking for sponsors!</a>-->
             </div>
-
         </div>
     </div>
+    {% else %}
+    <a class="looking" href='{{ "contact.html" | absolute_url }}'>We are currently looking for sponsors!</a>
+    {% endif %}
     <hr/>
     <div class="row">
         <div class="col-sm-12">

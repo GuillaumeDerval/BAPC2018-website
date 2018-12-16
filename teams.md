@@ -7,6 +7,7 @@ menu: contest
 ---
 
 #### Student teams
-To be announced
+To be announced.
+
 #### Company teams
-To be announced
+To be announced.

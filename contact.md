@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Organisation contact
+title: Contact information
 menutitle: Contact
-order: 9
+order: 11
 menu: main
 ---
-Please contact us preferably via e-mail.
 
-Email: [organisation@bapc.eu](mailto:organisation@bapc.eu)
+The organising committee can be reached at [organisation@bapc.eu](mailto:organisation@bapc.eu).
+
+For questions related to sponsorship, please reach out to Anouk Oudshoorn at [collaboration@bapc.eu](mailto:collaboration@bapc.eu).

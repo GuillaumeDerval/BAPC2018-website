@@ -18,7 +18,7 @@ The BAPC of 2019 is organized by the committee consisting of:
 * Mees Vermeulen
 * Simone Waning
 
-They can be reached at [organisation@bapc.eu](mailto:organisation@bapc.eu). For questions related to sponsorship, please reach out to [sponsoring@bapc.eu](mailto:sponsoring@bapc.eu).
+They can be reached at [organisation@bapc.eu](mailto:organisation@bapc.eu). For questions related to sponsorship, please reach out to [collaboration@bapc.eu](mailto:collaboration@bapc.eu).
 
 The committee is supported by the following people:
 

@@ -1,10 +1,25 @@
 ---
 layout: default
-title: Organisation contact
+title: Contact information
 menutitle: Contact
 order: 9
 menu: main
 ---
-Please contact us preferably via e-mail.
+The BAPC of 2019 is organized by the committee consisting of:
 
-Email: [organisation@bapc.eu](mailto:organisation@bapc.eu)
+* Jelle Besseling
+* Job Doesburg
+* Justin Hen
+* Ayala Hoeks
+* Thijs Limbeek
+* Timo Maarse
+* Anouk Oudshoorn
+* Lars van Rhijn
+* Mees Vermeulen
+* Simone Waning
+
+They can be reached at [organisation@bapc.eu](mailto:organisation@bapc.eu). For questions related to sponsorship, please reach out to [sponsoring@bapc.eu](mailto:sponsoring@bapc.eu).
+
+The committee is supported by the following people:
+
+* David Venhoek

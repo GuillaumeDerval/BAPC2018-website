@@ -29,4 +29,14 @@ The committee is supported by the following people:
 
 #### Jury
 
-To be announced.
+The following jury has been constructed:
+
+* Ragnar Groot Koerkamp
+* Harry Smit
+* Timon Knigge
+* Mees de Vries
+* Thijs Limbeek
+* David Venhoek
+* Daan van Gent
+* Onno Berrevoets
+* Wessel van Woerden

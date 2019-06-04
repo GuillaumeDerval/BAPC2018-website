@@ -22,7 +22,7 @@ Note that it is not required for institutions to organize preliminaries, in orde
 
 ## How to organize preliminaries
 
-The requirements for hosting a preliminary round are that you have your own [DOMJudge system](https://www.domjudge.org) available. A problem archive for a test session (1 hour) and the real contest (5 hours) will be distributed days before the preliminaries, which can be imported to a DOMJudge server.
+The requirements for hosting a preliminary round are that you have your own [DOMJudge system](https://www.domjudge.org) available. A problem archive for a test session (1 hour) and the real contest (5 hours) will be distributed some days before the preliminaries, which can be imported to a DOMJudge server.
 
 Additionally, it is strongly advised to have at least 1 jury member from your own institution available. This jury member shall verify results of the preliminaries and can answer clarification requests. During the contest, questions can also be asked to the central BAPC jury by the organization of the preliminary round, though it might take a while before those are answered and depending on the size of your preliminary round, this can be undesirable. Also this jury member can present the solutions after the contest. A presentation for this purpose will be published during the contest. 
 
